@@ -29,7 +29,7 @@ import org.slf4j.Logger;
 @Mod(ExampleMod.MODID)
 public class ExampleMod
 {
-    // Define mod id in a common place for everything to reference
+    // Define mod id in a common place for everything to referenc
     public static final String MODID = "nc";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
