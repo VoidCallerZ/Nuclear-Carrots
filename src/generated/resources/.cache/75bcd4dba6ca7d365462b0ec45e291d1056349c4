@@ -1,0 +1,4 @@
+// 1.19.2	2022-08-24T23:36:09.0385719	Tags for minecraft:block
+82062fc049d5c1db6ee4133d120a0fe0cab1bf47 data/forge/tags/blocks/ores.json
+82062fc049d5c1db6ee4133d120a0fe0cab1bf47 data/minecraft/tags/blocks/mineable/pickaxe.json
+82062fc049d5c1db6ee4133d120a0fe0cab1bf47 data/minecraft/tags/blocks/needs_iron_tool.json
