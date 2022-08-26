@@ -1,0 +1,5 @@
+{
+  "type": "nc:ore_biome_modifier",
+  "biomes": "#minecraft:is_overworld",
+  "feature": "nc:deepslate_uranium_ore"
+}

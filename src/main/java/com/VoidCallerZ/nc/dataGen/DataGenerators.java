@@ -17,6 +17,7 @@ public class DataGenerators
 
         DataGenerator generator = event.getGenerator();
         generator.addProvider(isClient, new ncBlockTags(generator, event.getExistingFileHelper()));
+        generator.addProvider(isClient, new ncBiomeModifiers(generator));
 
         generator.addProvider(isServer, new ncBlockStates(generator, event.getExistingFileHelper()));
         generator.addProvider(isServer, new ncItemModels(generator, event.getExistingFileHelper()));
