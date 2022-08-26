@@ -1,0 +1,5 @@
+// 1.19.2	2022-08-26T23:09:49.0092631	Nuclear Carrots Biome Modifiers
+4dd8ed7fd0744c5b3050b1f1160bdcf09aa84a8e data/nc/forge/biome_modifier/deepslate_uranium_ore_bm.json
+b306d661257fd6f4ea2fb1fc04be51263db4a14b data/nc/forge/biome_modifier/uranium_ore_bm.json
+8b34705d2b29a7630fe9d6c77e60546522c5de51 data/nc/worldgen/placed_feature/deepslate_uranium_ore_pf.json
+2f39efe5761fe16b7852da9e9af5bc160e8003fc data/nc/worldgen/placed_feature/uranium_ore_pf.json

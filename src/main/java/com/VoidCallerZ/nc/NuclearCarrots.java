@@ -2,6 +2,7 @@ package com.VoidCallerZ.nc;
 
 import com.VoidCallerZ.nc.registration.BlockRegistration;
 import com.VoidCallerZ.nc.registration.ItemRegistration;
+import com.VoidCallerZ.nc.registration.WorldGenRegistration;
 import com.VoidCallerZ.nc.setup.ClientSetup;
 import com.VoidCallerZ.nc.setup.ModSetup;
 import net.minecraftforge.api.distmarker.Dist;
@@ -23,6 +24,7 @@ public class NuclearCarrots
         ModSetup.setup();
         BlockRegistration.init();
         ItemRegistration.init();
+        WorldGenRegistration.init();
 
         IEventBus modbus = FMLJavaModLoadingContext.get().getModEventBus();
         modbus.addListener(ModSetup::init);
